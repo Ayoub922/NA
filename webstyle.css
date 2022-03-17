@@ -4,6 +4,8 @@ body{
     background-repeat:no-repeat;
 	background-attachment:fixed; 
     font-family: 'Source code pro', Calibri, serif;
+	 display: flex;
+flex-direction: column;
 }
 
 header{
